@@ -1,6 +1,6 @@
 # Dungeon Crawler
 
-Es un juego desarrollado con JavaScript en version solo Web
+Es un juego desarrollado con JavaScript en version solo Web, basado en los conocimientos adquiridos en el curso Programa tus primeros juegos Html5 con Javascript de udemy impartido por Javier Muñiz.
 
 ## Guía de inicio rápido y tecnologías usadas
 
