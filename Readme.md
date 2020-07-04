@@ -1,6 +1,6 @@
 # Dungeon Crawler
 
-Es un juego desarrollado con JavaScript
+Es un juego desarrollado con JavaScript en version solo Web
 
 ## Guía de inicio rápido y tecnologías usadas
 
